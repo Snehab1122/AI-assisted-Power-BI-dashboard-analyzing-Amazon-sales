@@ -135,7 +135,9 @@ Users can select different filters to dynamically explore the data.
 
 ## 📊 Dashboard Preview
 
-[📥 Download Power BI Dashboard](Dashboard/Amazon_Sales_Profitability_Analysis.pbix)
+
+[Amazon Power BI Dashboard (.pbix)](https://github.com/Snehab1122/AI-assisted-Power-BI-dashboard-analyzing-Amazon-sales/blob/main/amazon_ai_project%20pbi.pbix?utm_source=chatgpt.com)
+
 
 ---
 
