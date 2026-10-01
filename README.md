@@ -164,6 +164,6 @@ Amazon-Sales-Profitability-Analysis/
 │   └── https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/blob/main/amazon-sales-dashboard.png
 │
 ├── Dataset/
-│   └── https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/blob/main/amazon%20dataset.xlsx
+│   └── 
 │
 └── README.md
