@@ -139,6 +139,10 @@ Users can select different filters to dynamically explore the data.
 [Amazon Power BI Dashboard (.pbix)](https://github.com/Snehab1122/AI-assisted-Power-BI-dashboard-analyzing-Amazon-sales/blob/main/amazon_ai_project%20pbi.pbix?utm_source=chatgpt.com)
 
 
+[Amazon Sales Dashboard PNG](https://github.com/Snehab1122/AI-assisted-Power-BI-dashboard-analyzing-Amazon-sales/blob/main/Screenshot%202026-10-01%20152006.png?utm_source=chatgpt.com)
+
+
+
 ---
 
 ## 🔍 Business Insights
