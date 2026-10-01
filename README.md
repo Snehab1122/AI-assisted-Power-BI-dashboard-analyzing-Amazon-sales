@@ -171,5 +171,7 @@ Amazon-Sales-Profitability-Analysis/
 │
 ├── Dataset/
 │   └── 
+[Amazon Dataset.xlsx](https://github.com/Snehab1122/AI-assisted-Power-BI-dashboard-analyzing-Amazon-sales/blob/main/amazon%20dataset.xlsx?utm_source=chatgpt.com)
+
 │
 └── README.md
